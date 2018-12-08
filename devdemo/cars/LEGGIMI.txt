@@ -4,73 +4,73 @@
 ---------------------------------------------------
 ---------------------------------------------------
 
-Il pack è stato riorganizzato a dicembre 2018 da ciccio ed Etneus95 con l'obiettivo di sfruttare al meglio le potenzialità del nuovo sistema di skin.
+Il pack Ã¨ stato riorganizzato a dicembre 2018 da ciccio ed Etneus95 con l'obiettivo di sfruttare al meglio le potenzialitÃ  del nuovo sistema di skin.
 
-Come risultato, molte auto sono confluite nelle cartelle di altre auto come semplici skin, e non possiedono più delle carbox separate, mentre altre sono state totalmente eliminate.
+Come risultato, molte auto sono confluite nelle cartelle di altre auto come semplici skin, e non possiedono piÃ¹ delle carbox separate, mentre altre sono state totalmente eliminate.
 
 Di seguito trovate la descrizione delle sorti di ogni singola auto.
 
-In fondo l'elenco completo delle cartelle non più utilizzate e che potrete tranquillamente RIMUOVERE.
+In fondo l'elenco completo delle cartelle non piÃ¹ utilizzate e che potrete tranquillamente RIMUOVERE.
 
 --------------------------------------------
 
-• Acclaim: mantenuta. La skin di default non è più quella identica a Humma (conservata come skin alternativa) bensì la versione "differentfromhumma" già presente nella cartella
+â€¢ Acclaim: mantenuta. La skin di default non Ã¨ piÃ¹ quella identica a Humma (conservata come skin alternativa) bensÃ¬ la versione "differentfromhumma" giÃ  presente nella cartella
 
-• Bike: mantenuta
+â€¢ Bike: mantenuta
 
-• Bird: mantenuta
+â€¢ Bird: mantenuta
 
-• Canned Mite: convertita in skin di Dust Mite
+â€¢ Canned Mite: convertita in skin di Dust Mite
 
-• Canned R6: convertita in skin di R6 Turbo
+â€¢ Canned R6: convertita in skin di R6 Turbo
 
-• CGW: mantenuta
+â€¢ CGW: mantenuta
 
-• DEV Adeon: eliminata per coincidenza di parametri ed estrema somiglianza con PooPoo
+â€¢ DEV Adeon: eliminata per coincidenza di parametri ed estrema somiglianza con PooPoo
 
-• DEV Humma: eliminata per coincidenza di parametri ed estrema somiglianza con Humma
+â€¢ DEV Humma: eliminata per coincidenza di parametri ed estrema somiglianza con Humma
 
-• DEV Pest Control: convertita in skin di Pest Control
+â€¢ DEV Pest Control: convertita in skin di Pest Control
 
-• DEV UFO: mantenuta
+â€¢ DEV UFO: mantenuta
 
-• Dinamo San: convertita in skin di RC San
+â€¢ Dinamo San: convertita in skin di RC San
 
-• Evil Candy, Evil Phat, Evil Toyeca: mantenute. Per tutte e tre le auto sono ora selezionabili le rispettive skin "Justlikebox" 
+â€¢ Evil Candy, Evil Phat, Evil Toyeca: mantenute. Per tutte e tre le auto sono ora selezionabili le rispettive skin "Justlikebox" 
 
-• Game Center: convertita in skin di Riva TNT2 per coincidenza di parametri
+â€¢ Game Center: convertita in skin di Riva TNT2 per coincidenza di parametri
 
-• Gamespot: convertita in skin di Riva TNT2 per coincidenza di parametri
+â€¢ Gamespot: convertita in skin di Riva TNT2 per coincidenza di parametri
 
-• IGN PC: convertita in skin di Acclaim per coincidenza di parametri
+â€¢ IGN PC: convertita in skin di Acclaim per coincidenza di parametri
 
-• Loaded Chique: eliminata (già presente nel gioco originale come "caror.bmp" di NY54)
+â€¢ Loaded Chique: eliminata (giÃ  presente nel gioco originale come "caror.bmp" di NY54)
 
-• Mc RC: mantenuta
+â€¢ Mc RC: mantenuta
 
-• NV Geforce: convertita in skin di Aquasonic per coincidenza di parametri
+â€¢ NV Geforce: convertita in skin di Aquasonic per coincidenza di parametri
 
-• NY55: convertita in skin di NY54
+â€¢ NY55: convertita in skin di NY54
 
-• PC Gamer: convertita in skin di CGW per coincidenza di parametri
+â€¢ PC Gamer: convertita in skin di CGW per coincidenza di parametri
 
-• PC XL8 R: convertita in skin di Riva TNT2 per coincidenza di parametri
+â€¢ PC XL8 R: convertita in skin di Riva TNT2 per coincidenza di parametri
 
-• Pole Pot: convertita in skin di Pole Poz
+â€¢ Pole Pot: convertita in skin di Pole Poz
 
-• Poo Poo: convertita in skin di Adeon
+â€¢ Poo Poo: convertita in skin di Adeon
 
-• Pyro: mantenuta
+â€¢ Pyro: mantenuta
 
-• Riva TNT2: mantenuta
+â€¢ Riva TNT2: mantenuta
 
-• Yakuza Pro-EX: convertita in skin di RC Bandit
+â€¢ Yakuza Pro-EX: convertita in skin di RC Bandit
 
-• Zebra: mantenuta
+â€¢ Zebra: convertita in skin di Evil Weasel
 
 --------------------------------------------
 
-Cartelle che è possibile rimuovere dalla cartella cars:
+Cartelle che Ã¨ possibile rimuovere dalla cartella cars:
 
 ADEON_DEV 
 CANNED_mite
@@ -89,3 +89,4 @@ rc_DEV
 SUGO_DEV 
 TC3_DEV 
 tc55 
+zebra
