@@ -35,6 +35,7 @@ TPAGE 	"cars\asbateam\car.bmp"
 COLL 	"cars\asbateam\hull.hul"
 ;)SHADOWINDEX	17
 ;)SHADOWTABLE 	-59.6372 59.6372 76.4172 -76.4172 -5.7570
+;)TCARBOX  "cars\asbateam\carbox.bmp"
 EnvRGB 	100 100 100
 
 ;====================
