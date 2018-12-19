@@ -1,4 +1,4 @@
----------------------------------------------------
+﻿---------------------------------------------------
 ---------------------------------------------------
 -------------Pack Demo-DEV ARM Release-------------
 ---------------------------------------------------
@@ -58,7 +58,7 @@ In fondo l'elenco completo delle cartelle non più utilizzate e che potrete tran
 
 • Pole Pot: convertita in skin di Pole Poz
 
-• Poo Poo: convertita in skin di Adeon
+• Poo Poo: eliminata (l'avremmo mantenuta, ma purtroppo è un remap) 
 
 • Pyro: mantenuta
 
