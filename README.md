@@ -8,3 +8,5 @@ Dentro la sezione "skins" ci vanno tutte le skin delle auto originali e dc.
 La sezione "custom" sarà il futuro pack di auto e piste custom di arm.
 
 La sezione "generici" è una raccolta di pack di auto per varie situazioni e/o tornei, tutte le auto raggruppate in un unica cartella con l'uso delle skin.
+
+La cartella "brm" contiene tutti i file necessari per giocare il brm.
