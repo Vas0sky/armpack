@@ -1,0 +1,34 @@
+;----------------------------
+; Revolt .INF file structure
+;----------------------------
+; This is the additional track as it appears in the arcade version of Re-Volt
+; It has been made by Kurt Arnlund with regular community tools
+; Since this track is made for a custom build, it may have some bugs
+; The object file (fob) has been renamed since it caused the stock game to crash
+; oval_track.mp3 equals Overdriver
+; Huge thanks goes to ZR who bought the recovery discs of Re-Volt Arcade
+; Have fun,
+; - Marv
+; Visit http://z3.invisionfree.com/Revolt_Live
+
+NAME		'The Wrecking Yard'
+STARTPOS	-390. 100. 640
+STARTPOSREV	0. -900. 0
+STARTROT	0.00
+STARTROTREV	0.75
+FARCLIP		26000
+FOGSTART	26001
+FOGEND		26001
+FOGCOLOR	80 144 192
+VERTFOGSTART	0
+VERTFOGEND	0
+;WORLDRGBPER	75
+WORLDRGBPER	55
+;MODELRGBPER	82
+MODELRGBPER	55
+;INSTANCERGBPER	80
+INSTANCERGBPER	55
+MIRRORS		0 0.75 0 256
+MP3		'oval_track.mp3'
+REDBOOK		10 10
+PICKUPDISTSCALE 0.86
