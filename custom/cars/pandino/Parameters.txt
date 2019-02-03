@@ -34,6 +34,8 @@ MODEL 	18 	"NONE"
 TPAGE 	"cars\pandino\car.bmp"
 COLL 	"cars\pandino\hull.hul"
 ;)TCARBOX "cars\pandino\pandabox.bmp"
+;)SHADOWTABLE -80.5259 80.5259 83.1068 -75.1068 -7.2871
+;)TSHADOW "cars\pandino\shadow.bmp"
 EnvRGB 	200 200 200
 
 ;====================
@@ -91,8 +93,8 @@ KineticFriction 0.400000
 
 WHEEL 0 { 	; Start Wheel
 ModelNum 	1
-Offset1  	-23.500000 -3.000000 43.500000
-Offset2  	-2.000000 0.000000 0.000000
+Offset1  	-23.500000 -3.000000 40.500000
+Offset2  	-2.000000 -0.500000 0.000000
 IsPresent   	TRUE
 IsPowered   	TRUE
 IsTurnable  	TRUE
@@ -112,8 +114,8 @@ KineticFriction 	1.650000
 
 WHEEL 1 { 	; Start Wheel
 ModelNum 	2
-Offset1  	23.500000 -3.000000 43.500000
-Offset2  	2.000000 0.000000 0.000000
+Offset1  	23.500000 -3.000000 40.500000
+Offset2  	2.000000 -0.500000 0.000000
 IsPresent   	TRUE
 IsPowered   	TRUE
 IsTurnable  	TRUE
